@@ -1,0 +1,23 @@
+#div1{
+    border-radius: 50%;
+    height:300px;
+    width: 300px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.div2{
+    height:70px;
+    width: 80px;
+    display: flex;
+    row-gap: 20px;
+    display: inline-block;
+    
+}
+body{
+    background-color:whitesmoke;
+}
+#div4{
+    background-color: aqua;
+}
+    
